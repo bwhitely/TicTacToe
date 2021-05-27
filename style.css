@@ -1,0 +1,26 @@
+#nav {
+    justify-content: center;
+}
+
+#main {
+    background-color: lightgrey;
+}
+
+#title {
+    text-align: center;
+    font-size: 5em;
+}
+
+.board {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+    justify-content: center;
+    text-align: center;
+}
+
+.tile {
+    text-align: center;
+    font-size: 5em;
+}
